@@ -79,14 +79,7 @@ This implementation replaces Keras-RL with a **from-scratch PyTorch version**, f
 
 ---
 
-## 🔖 Code Attribution
-All PyTorch implementation code — including model architecture, replay buffer, epsilon scheduling, and training loop — was written independently.  
-Environment setup and structural patterns were **adapted and customized** from:
-- Official **PyTorch DQN (CartPole)** tutorial  
-- **OpenAI Gymnasium** documentation  
-- Atari DQN reference repositories  
 
----
 
 ## ⚖️ License
 This repository is released under the **MIT License**.
